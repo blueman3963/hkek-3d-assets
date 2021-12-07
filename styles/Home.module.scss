@@ -1,0 +1,20 @@
+.wrapper {
+  background-color: #333;
+  position: fixed;
+  top: 50vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  width: 36vh;
+  height: 50vh;
+}
+
+
+
+.title {
+  position: fixed;
+  top: 80vh;
+  z-index: 1;
+  left: 50vw;
+  color: white;
+  transform: translateX(-50%);
+}

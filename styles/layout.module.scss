@@ -1,0 +1,17 @@
+.nav {
+    position: fixed;
+    left: 50%;
+    top: 20vh;
+    transform: translate(-50%, -50%);
+
+    .button {
+        padding: 4px 8px;
+        margin: 0 4px;
+        background-color: #ffddee;
+        border-radius: 4px;
+
+        &:hover {
+            background-color: #aa7788;
+        }
+    }
+}
